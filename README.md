@@ -6,6 +6,6 @@ I like making tweaks and such for the popular Overwatch custom game [Genji Dodge
 
 Any code here can be (de)compiled with [OverPy](https://github.com/Zezombye/overpy).
 
-Any files ending in `.opy` have already been compiled with [OverPy](https://github.com/Zezombye/overpy).
+Any files ending in `.opy` have already been decompiled with [OverPy](https://github.com/Zezombye/overpy).
 
 All credit for [Genji Dodgeball](https://github.com/Mazawrath/Overwatch-Genji-Dodgeball) goes to [Mazawrath](https://github.com/Mazawrath).
