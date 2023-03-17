@@ -1,4 +1,4 @@
-# Genji-Ball-Plugins
+# Genji-Ball-Projects
 This is a repository with my additions to [Genji Dodgeball](https://github.com/Mazawrath/Overwatch-Genji-Dodgeball).
 I like making tweaks and such for the popular Overwatch custom game [Genji Dodgeball](https://github.com/Mazawrath/Overwatch-Genji-Dodgeball).
 
